@@ -1,4 +1,4 @@
-# 👩🏻‍💻 André Scherer Kunz
+# 👨‍💻 André Scherer Kunz
 
 **`Desenvolvedor FullStack`**
 
