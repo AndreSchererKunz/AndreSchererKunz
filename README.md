@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é André, tenho 19 anos e sou estudante focado em desenvolvimento full stack. Estou em formação técnica por meio de cursos na EBAC, participação em eventos da área e estudo autodidata. Aprofundo meus conhecimentos em tecnologias de front-end e back-end, com foco na criação de soluções funcionais e bem estruturadas. Valorizo ética, responsabilidade e colaboração como base para uma atuação profissional sólida no futuro.
+Olá, meu nome é André, tenho 19 anos e interesse na área de tecnologia. Concluí há pouco tempo o curso livre de Desenvolvimento Full Stack pela EBAC, que me proporcionou uma base sólida e poderá ser útil em diferentes áreas. Atualmente, estou explorando diferentes caminhos dentro da tecnologia para definir minha especialização.
 
 ---
 
