@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é André, tenho 19 anos e interesse na área de tecnologia. Concluí há pouco tempo o curso livre de Desenvolvimento Full Stack pela EBAC, que me proporcionou uma base sólida e poderá ser útil em diferentes áreas. Atualmente, estou explorando diferentes caminhos dentro da tecnologia para definir minha especialização.
+Olá, meu nome é André, tenho 19 anos e tenho interesse na área de tecnologia. Possuo formação complementar em Desenvolvimento Full Stack pela EBAC e iniciarei, no início de 2026, o curso superior de Tecnologia da Informação pelo Instituto Infnet. Atualmente, também realizo o curso de Introdução à Libras pela ENAP, desenvolvendo uma soft skill voltada à comunicação e à inclusão.
 
 ---
 
