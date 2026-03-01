@@ -2,9 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é André, tenho 20 anos e tenho interesse na área de tecnologia. Possuo formação complementar em Desenvolvimento Full Stack pela EBAC e atualmente curso o ensino superior em Tecnologia da Informação pelo Instituto Infnet. 
+Olá! Meu nome é André, tenho 20 anos e estou em formação na área de Tecnologia da Informação.
 
-Destaco também dois cursos realizados pela ENAP: Introdução à Libras e Inteligência Emocional, que contribuíram para o desenvolvimento de competências voltadas à comunicação, inclusão e ao equilíbrio emocional.
+Atualmente, curso o ensino superior em Tecnologia da Informação pelo Instituto Infnet e desenvolvo conhecimentos em suporte técnico, sistemas operacionais (Windows e Linux), redes básicas e manutenção de computadores.
+
+Tenho experiência profissional em ambiente industrial, com foco em organização, trabalho em equipe e cumprimento de metas. Também busco desenvolver competências relacionadas à comunicação, inclusão e equilíbrio emocional.
+
+Busco minha primeira oportunidade na área de TI para desenvolver minhas habilidades e crescer profissionalmente.
 
 ---
 
