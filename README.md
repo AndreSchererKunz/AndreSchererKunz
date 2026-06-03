@@ -1,14 +1,12 @@
 # 👨‍💻 André Scherer Kunz
 
-**`Desenvolvedor FullStack`**
+**`Estudante de TI`**
 
 Olá! Meu nome é André, tenho 20 anos e estou em formação na área de Tecnologia da Informação.
 
-Atualmente, curso o ensino superior em Tecnologia da Informação pelo Instituto Infnet e desenvolvo conhecimentos em suporte técnico, sistemas operacionais (Windows e Linux), redes básicas e manutenção de computadores.
+Atualmente, curso o ensino superior em Tecnologia da Informação pelo Instituto Infnet e desenvolvo conhecimentos focados em: Infra, Programação e Dados.
 
 Tenho experiência profissional em ambiente industrial, com foco em organização, trabalho em equipe e cumprimento de metas. Também busco desenvolver competências relacionadas à comunicação, inclusão e equilíbrio emocional.
-
-Busco minha primeira oportunidade na área de TI para desenvolver minhas habilidades e crescer profissionalmente.
 
 ---
 
